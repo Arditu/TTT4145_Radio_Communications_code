@@ -29,6 +29,6 @@ The other codes are the python code for Opus encoder and decoder, and RSA encryp
 ## How to Test the System
 
 1. Download the .zip file and extract it
-2. Open the project folder and locate either the Rx.gru or Tx.gru file
+2. Open the project folder and locate either the RADIO_TX.gru or RADIO_RX.gru file
 3. Open the file with GNU Radio
 4. **Important:** Run GNU Radio from inside the project folder, otherwise the Python files will not be found
