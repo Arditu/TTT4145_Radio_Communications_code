@@ -25,3 +25,10 @@ The project code is available in two formats:
 - The RADIO_Rx.grc includes the Rx code
 
 The other codes are the python code for Opus encoder and decoder, and RSA encryption and decryption. 
+
+## How to Test the System
+
+1. Download the .zip file and extract it
+2. Open the project folder and locate either the Rx.gru or Tx.gru file
+3. Open the file with GNU Radio
+4. **Important:** Run GNU Radio from inside the project folder, otherwise the Python files will not be found
