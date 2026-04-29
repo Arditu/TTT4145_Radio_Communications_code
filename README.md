@@ -18,3 +18,10 @@ The project code is available in two formats:
 
 -  Download the .zip file containing all files
 -  Browse the source code directly on this page
+
+## File names
+
+The RADIO_TX.grc includes the Tx code
+The RADIO_Rx.grc includes the Rx code
+
+The other codes are the python code for Opus encoder and decoder, and RSA encryption and decryption. 
